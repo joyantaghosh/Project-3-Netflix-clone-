@@ -50,7 +50,7 @@ function goToLinkedin() {
   window.open("", "_blank");
 }
 function goToGithub() {
-  window.open("hhttps://github.com/joyantaghosh", "_blank");
+  window.open("https://github.com/joyantaghosh", "_blank");
 }
 
 //copyright section
