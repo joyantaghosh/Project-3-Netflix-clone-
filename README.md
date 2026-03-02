@@ -6,7 +6,7 @@ A high-fidelity Netflix Clone built to demonstrate modern web development practi
 ---------
 
 ## **🚀 Live Demo**
-You can view the deployed project here: [https://joyantaghosh.github.io/Project-3-Netflix-clone-/]
+🌐You can view the deployed project here: [https://joyantaghosh.github.io/Project-3-Netflix-clone-/]
 
 -------
 
@@ -53,7 +53,7 @@ You can view the deployed project here: [https://joyantaghosh.github.io/Project-
 
 **1. Clone the repository**
 
-Bash: (git clone https://github.com/your-username/netflix-clone.git)
+Bash: (https://github.com/joyantaghosh/Project-3-Netflix-clone-.git)
 
 **2. Install dependencies**
 
@@ -69,15 +69,3 @@ Bash: (npm start)
 This project is for educational and non-commercial purposes only.
 Netflix is a trademarked brand; this clone is built for educational use.
 Data credit goes to the respective sources.
-
--------
-
-
-
-
-
-
-
-
-
-
