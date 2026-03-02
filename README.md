@@ -1,16 +1,16 @@
 # Project-3-Netflix-clone
- ##🎬 Netflix Clone - Fully Responsive##
+ ## 🎬 Netflix Clone - Fully Responsive##
  
 A high-fidelity Netflix Clone built to demonstrate modern web development practices. This application features dynamic data fetching, a custom video player interface, and a fully responsive layout that works across all devices.
 
 ---------
 
-##**🚀 Live Demo**
+## **🚀 Live Demo**
 You can view the deployed project here: [https://joyantaghosh.github.io/Project-3-Netflix-clone-/]
 
 -------
 
-##**✨ Features**
+## **✨ Features**
 **Dynamic Movie Data:** Fetches real-time movie and TV show data using the TMDB API.
 
 **Netflix Originals Poster:** A hero section that displays featured content dynamically.
@@ -23,7 +23,7 @@ You can view the deployed project here: [https://joyantaghosh.github.io/Project-
 
 -------------
 
-##**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 **Frontend:** js / HTML5 / CSS3
 
 **Styling:** Styled Components or Tailwind CSS (choose one)
@@ -34,7 +34,7 @@ You can view the deployed project here: [https://joyantaghosh.github.io/Project-
 
 ----------------
 
-##**📸 Screenshots**
+## **📸 Screenshots**
 
 <img width="1899" height="868" alt="Screenshot 2026-03-02 173323" src="https://github.com/user-attachments/assets/8661871d-fb62-4ba9-b856-e896f25102e4" />
 
@@ -49,7 +49,7 @@ You can view the deployed project here: [https://joyantaghosh.github.io/Project-
 
 -------------
 
-##**⚙️ Setup & Installation**
+## **⚙️ Setup & Installation**
 
 **1. Clone the repository**
 
@@ -64,11 +64,12 @@ Bash: (npm start)
 
 ----------
 
-##📜 License
-__________________
+## 📜 License
+
 This project is for portfolio purposes only. Netflix is a trademarked brand; this clone is built for educational use.
 
 -------
+
 
 
 
