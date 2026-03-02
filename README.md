@@ -1,5 +1,5 @@
 # Project-3-Netflix-clone
- ## 🎬 Netflix Clone - Fully Responsive##
+ ## 🎬 Netflix Clone - Fully Responsive
  
 A high-fidelity Netflix Clone built to demonstrate modern web development practices. This application features dynamic data fetching, a custom video player interface, and a fully responsive layout that works across all devices.
 
@@ -66,9 +66,12 @@ Bash: (npm start)
 
 ## 📜 License
 
-This project is for portfolio purposes only. Netflix is a trademarked brand; this clone is built for educational use.
+This project is for educational and non-commercial purposes only.
+Netflix is a trademarked brand; this clone is built for educational use.
+Data credit goes to the respective sources.
 
 -------
+
 
 
 
